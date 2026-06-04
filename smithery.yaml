@@ -1,0 +1,18 @@
+# Smithery configuration for @mcpskillsio/server (stdio MCP server)
+# Reference: https://smithery.ai/docs/build/project-config/smithery.yaml
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      mcpskillsApiKey:
+        type: string
+        title: MCPSkills API Key
+        description: Optional MCPSkills Pro API key for higher rate limits and full reports.
+    required: []
+  commandFunction: |
+    (config) => ({
+      command: 'npx',
+      args: ['-y', '@mcpskillsio/server'],
+      env: config.mcpskillsApiKey ? { MCPSKILLS_API_KEY: config.mcpskillsApiKey } : {}
+    })

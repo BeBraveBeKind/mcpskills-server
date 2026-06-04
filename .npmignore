@@ -5,6 +5,8 @@ test/
 .gitignore
 .netlify/
 server.json
+glama.json
+smithery.yaml
 CONTRIBUTING.md
 SECURITY.md
 SKILL.md
