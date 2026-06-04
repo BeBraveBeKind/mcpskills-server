@@ -1,6 +1,6 @@
 {
   "name": "@mcpskillsio/server",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "mcpName": "io.mcpskills/server",
   "description": "Use the MCPSkills pre-install trust layer from Claude Code, Cursor, or any MCP client. Accepts GitHub repos, npm packages, Smithery URLs, and OpenClaw skills. 15 signals (incl. OSV/KEV/EPSS vulnerability intelligence), safety scanning, OpenClaw frontmatter parsing + transparency scoring, recommendations, badges, monitoring, batch checking, auto-gate decisions, and stack building from live trust data.",
   "type": "module",
