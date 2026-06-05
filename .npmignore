@@ -5,6 +5,8 @@ test/
 .gitignore
 .netlify/
 Dockerfile
+icon.png
+llms-install.md
 server.json
 glama.json
 smithery.yaml
