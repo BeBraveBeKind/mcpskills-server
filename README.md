@@ -4,6 +4,13 @@ Use the MCPSkills pre-install trust layer from inside Claude Code, Cursor, or an
 
 13 standard signals (15 in Skills Mode) across 4 dimensions with safety scanning for prompt injection, credential theft, and supply chain attacks. Check install risk before an MCP server or AI skill reaches your agent.
 
+[![npm version](https://img.shields.io/npm/v/@mcpskillsio/server?logo=npm&color=cb3837)](https://www.npmjs.com/package/@mcpskillsio/server)
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.mcpskills%2Fserver-6E56CF)](https://registry.modelcontextprotocol.io/v0/servers?search=mcpskills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+[![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=mcpskills&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBtY3Bza2lsbHNpby9zZXJ2ZXIiXX0%3D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=mcpskills&config=%7B%22type%22%3A%22stdio%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40mcpskillsio%2Fserver%22%5D%7D)
+
 ## Install
 
 ### Claude Code
