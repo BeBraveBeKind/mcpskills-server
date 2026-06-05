@@ -4,6 +4,7 @@ test/
 .github/
 .gitignore
 .netlify/
+Dockerfile
 server.json
 glama.json
 smithery.yaml
