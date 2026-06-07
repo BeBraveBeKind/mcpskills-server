@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BeBraveBeKind/mcpskills-server/main/assets/og.png" alt="MCP Skills — the pre-install trust layer for MCP servers and AI skills" width="820">
+</p>
+
 # @mcpskillsio/server
 
 Use the MCPSkills pre-install trust layer from inside Claude Code, Cursor, or any MCP client.
