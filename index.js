@@ -396,7 +396,7 @@ function formatSafetyResult(data) {
 const server = new Server(
   {
     name: "mcpskills",
-    version: "2.5.2",
+    version: "2.5.3",
   },
   {
     capabilities: {

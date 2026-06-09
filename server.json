@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.mcpskills/server",
   "description": "Trust scoring for MCP servers, AI skills & npm packages — 15 signals + safety scanning.",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "websiteUrl": "https://mcpskills.io",
   "repository": {
     "url": "https://github.com/BeBraveBeKind/mcpskills-server",
@@ -12,7 +12,7 @@
     {
       "registryType": "npm",
       "identifier": "@mcpskillsio/server",
-      "version": "2.5.2",
+      "version": "2.5.3",
       "transport": { "type": "stdio" },
       "environmentVariables": [
         {
